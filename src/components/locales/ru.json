@@ -8,9 +8,15 @@
   "dark": "Темная",
   "сolorGamma": "Цветовая гамма",
   "skills": "Навыки",
-  "experinece": "Опыт работы"
-
-
-
+  "experinece": "Опыт работы",
+  "dateMnPartners": "Июль 2023 — по настоящее время",
+  "role": "Frontend developer",
+  "dateAs": "Январь 2023 — Май 2023",
+  "descMn1": "Разработка и доработка функционала проекта единой информационно-аналитической системы для государственных правоохранительных органов. Стек технологий: JavaScript, TypeScript, React Hook, React Hook Form, React Router, Mobx, Material UI и взаимодействие с REST API. Работа с подписью ЭЦП.",
+  "descMn2": "Разработка и доработка функционала проекта Интегрированной системы управления образованием для образовательных учреждений. Стек технологий: JavaScript, TypeScript, React Hook, React Hook From, React Router, Mobx, Material UI и взаимодействие с REST API. Работа с ЭЦП-подписью.",
+  "descAs1": "Разработка и усовершенствование проекта Inlot.kz, аналога Krisha.KZ, предназначенного для поиска квартир, а также расчета инвестиций и доходности с использованием технологий искусственного интеллекта. Стек технологий: JavaScript, React, Mobx, React Router, RESTful API, react-hook-form, Material UI.",
+  "descAs2": "Aqjol.kz — разработка и внедрение системы документооборота для политической партии. Основные технологии: JavaScript, React, Mobx, React Router, RESTful API, react-hook-form, Material UI.",
+  "degreeAITU": "Бакалавр в области информационно-коммуникационных технологий",
+  "degreeMNU": "Магистр Право в IT"
 
 }

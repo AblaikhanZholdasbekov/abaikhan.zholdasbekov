@@ -8,7 +8,16 @@
   "dark": "Dark mode",
   "сolorGamma": "Color scheme",
   "skills": "Skills",
-  "experinece": "Work experience"
+  "experinece": "Work experience",
+  "dateMnPartners": "July 2023 — present",
+  "roleMN": "Frontend developer",
+  "descMn1": "Development and refinement of the functionality of the project of a unified information and analytical system for government law enforcement agencies. Technology stack: JavaScript, TypeScript, React Hook, React Hook Form, React Router, Mobx, Material UI and interaction with REST API. Working with EDS signing.",
+  "descMn2": "Development and refinement of the functionality of the Integrated Education Management System project for educational institutions. Technology stack: JavaScript, TypeScript, React Hook, React Hook Form, React Router, Mobx, Material UI and interaction with REST API. Working with EDS signing.",
+  "descAs1": "Development and improvement of the Inlot.kz project, an analog of the Krisha.KZ, designed to search for apartments, as well as calculate investments and returns using artificial intelligence technologies. Technology stack: JavaScript, React, Mobx, React Router, RESTful API, react-hook-form, Material UI.",
+  "descAs2": "Aqjol.kz — development and implementation of a document management system for a political party. Main technologies: JavaScript, React, Mobx, React Router, RESTful API, react-hook-form, Material UI.",
+  "dateAs": "January 2023 — May 2023",
+  "degreeAITU": "B.Sc. in Information and Communication Technologies",
+  "degreeMNU": "Master of Law in IT"
 
 
 

@@ -8,11 +8,12 @@ const skillList = [
   'CSS',
   'JavaScript',
   'TypeScript',
-  'Next.js',
   'React',
+  'Next.js',
   'Redux',
   'MobX',
   'Material UI',
+  'Tailwind/ SASS/ SCSS',
   'Git'
 ];
 

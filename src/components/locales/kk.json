@@ -8,6 +8,17 @@
   "dark": "Қараңғы",
   "сolorGamma": "Түс схемасы",
   "skills": "Дағдылар",
-  "experinece": "Жұмыс тәжірибесі"
+  "experinece": "Жұмыс тәжірибесі",
+  "dateMnPartners": "Шілде 2023-қазіргі уақытқа дейін",
+  "role": "Frontend developer",
+  "dateAs": "Қаңтар 2023-Мамыр 2023",
+  "descMn1": "Мемлекеттік құқық қорғау органдарына арналған бірыңғай ақпараттық-талдау жүйесі жобасының функционалын әзірлеу және жетілдіру. Технологиялар жиынтығы: JavaScript, TypeScript, React Hook, React Hook Form, React Router, Mobx, Material UI және REST API-мен өзара әрекеттесу. ЭЦҚ қолтаңбасымен жұмыс.",
+  "descMn2": "Білім беру мекемелеріне арналған Интеграцияланған білім беру басқару жүйесінің функционалын әзірлеу және жетілдіру. Технологиялар жиынтығы: JavaScript, TypeScript, React Hook, React Hook Form, React Router, Mobx, Material UI және REST API-мен өзара әрекеттесу. ЭЦҚ қолтаңбасымен жұмыс.",
+  "descAs1": "Inlot.kz жобасын әзірлеу және жетілдіру — Krisha.kz аналогы, пәтерлерді іздеуге, сондай-ақ инвестициялар мен табыстылықты есептеуге арналған, жасанды интеллект технологияларын қолданатын жоба. Технологиялар жиынтығы: JavaScript, React, Mobx, React Router, RESTful API, react-hook-form, Material UI.",
+  "descAs2": "Aqjol.kz — саяси партияға арналған құжат айналымы жүйесін әзірлеу және ендіру. Негізгі технологиялар: JavaScript, React, Mobx, React Router, RESTful API, react-hook-form, Material UI.",
+  "degreeAITU": "Ақпараттық-коммуникациялық технологиялар саласындағы Бакалавр",
+  "degreeMNU": "IT-дегі құқық магистрі"
+
+
 
 }
